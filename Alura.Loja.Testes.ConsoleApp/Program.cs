@@ -14,7 +14,7 @@ namespace Alura.Loja.Testes.ConsoleApp
             //    Uma Compra pode conter vários produtos
 
             //compra de 6 pães franceses
-            Produto paoFrances = new Produto("Pão Francês","Padaria", 0.40, "Unidade");
+            Produto paoFrances = new Produto("Pão Francês2","Padaria", 0.40, "Unidade");
 
             Compra compra = new Compra();
             compra.Quantidade = 6;
